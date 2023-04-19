@@ -1,7 +1,7 @@
 #!/bin/bash
-sudo yum update
+yum update
 curl –sL https://rpm.nodesource.com/setup_10.x | sudo bash -
-sudo yum install –y nodejs
-sudo yum install –y nodejs npm
-sudo npm install -y
-sudo npm update -y
+yum install –y nodejs
+yum install –y nodejs npm
+npm install -y
+npm update -y
