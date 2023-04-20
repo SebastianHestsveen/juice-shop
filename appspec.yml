@@ -8,5 +8,5 @@ hooks:
   - location: scripts/install.sh
     runas: root
   ApplicationStart:
-    - location: /home/scripts/start.sh
+    - location: start.sh
       runas: root
