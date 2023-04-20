@@ -1,5 +1,6 @@
 #!/bin/bash
 cd /home
-sudo su
 pwd
+sudo su
+pwd 
 npm run start
