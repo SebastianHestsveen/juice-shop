@@ -6,4 +6,5 @@ nvm install --lts
 sudo su
 npm install -y
 npm update -y
-echo "jegErSudo"
+pwd
+echo "-------------------------------------------test---------------------------------------------------------"
