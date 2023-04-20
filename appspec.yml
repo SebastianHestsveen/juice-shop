@@ -4,7 +4,7 @@ files:
   - source: /
     destination : /home
 hooks:
-  BeforeInstall:
+  AfterInstall:
   - location: scripts/install.sh
     runas: root
   ApplicationStart:

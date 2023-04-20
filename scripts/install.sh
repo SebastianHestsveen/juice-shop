@@ -6,4 +6,3 @@ cd /opt/codedeploy-agent/deployment-root/844c77ae-32f8-4eb5-8816-dd95f2200718
 pwd
 sudo su
 echo "jegErSudo"
-npm install -y
